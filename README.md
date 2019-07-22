@@ -7,20 +7,27 @@ I haven't seen it done in C# and decided to implement it in that since it is the
 Two genomes are created at random that could look like:
 
 [0,1,0,0,1,1]
+
 [0,0,1,0,0,0]
 
 These then give birth to children that are a mixture of their parents so there are four genomes:
 
 Parent 1: [0,1,0,0,1,1]
+
 Parent 2: [0,0,1,0,0,0]
+
 Child 1:  [0,1,0,0,0,0] <= First three values of Parent 1 and second three of Parent 2
+
 Child 2:  [0,1,1,0,0,1] <= First three values of Parent 2 and second three of Parent 1
 
 The goal is for them to get to
 
 [1,1,1,1,1,1]
+
 [1,1,1,1,1,1]
+
 [1,1,1,1,1,1]
+
 [1,1,1,1,1,1]
 
 This is done through Darwinian principles like mutation and survival of the fittest. 
