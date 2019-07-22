@@ -1,0 +1,11 @@
+C:\Users\benzidrine\source\repos\GeneticAlgoTest\GeneticAlgoTest\bin\Debug\netcoreapp2.1\GeneticAlgoTest.deps.json
+C:\Users\benzidrine\source\repos\GeneticAlgoTest\GeneticAlgoTest\bin\Debug\netcoreapp2.1\GeneticAlgoTest.runtimeconfig.json
+C:\Users\benzidrine\source\repos\GeneticAlgoTest\GeneticAlgoTest\bin\Debug\netcoreapp2.1\GeneticAlgoTest.runtimeconfig.dev.json
+C:\Users\benzidrine\source\repos\GeneticAlgoTest\GeneticAlgoTest\bin\Debug\netcoreapp2.1\GeneticAlgoTest.dll
+C:\Users\benzidrine\source\repos\GeneticAlgoTest\GeneticAlgoTest\bin\Debug\netcoreapp2.1\GeneticAlgoTest.pdb
+C:\Users\benzidrine\source\repos\GeneticAlgoTest\GeneticAlgoTest\obj\Debug\netcoreapp2.1\GeneticAlgoTest.csprojAssemblyReference.cache
+C:\Users\benzidrine\source\repos\GeneticAlgoTest\GeneticAlgoTest\obj\Debug\netcoreapp2.1\GeneticAlgoTest.csproj.CoreCompileInputs.cache
+C:\Users\benzidrine\source\repos\GeneticAlgoTest\GeneticAlgoTest\obj\Debug\netcoreapp2.1\GeneticAlgoTest.AssemblyInfoInputs.cache
+C:\Users\benzidrine\source\repos\GeneticAlgoTest\GeneticAlgoTest\obj\Debug\netcoreapp2.1\GeneticAlgoTest.AssemblyInfo.cs
+C:\Users\benzidrine\source\repos\GeneticAlgoTest\GeneticAlgoTest\obj\Debug\netcoreapp2.1\GeneticAlgoTest.dll
+C:\Users\benzidrine\source\repos\GeneticAlgoTest\GeneticAlgoTest\obj\Debug\netcoreapp2.1\GeneticAlgoTest.pdb
